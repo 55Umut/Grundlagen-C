@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello+World!;Willkommen+auf+meinem+Profil;Coding+%26+Learning;Python+und+C%23+Enthusiast;Immer+am+Lernen+und+Wachsen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello+World!;Willkommen+auf+meinem+Profil;Coding+%26+Learning;C+Enthusiast;Immer+am+Lernen+und+Wachsen" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/55Umut/C-Sharp-Grundlagen">
-    <img src="https://img.shields.io/badge/🔭%20Aktuell-C%23Grundlagen-brightgreen?style=for-the-badge" alt="Aktuelles Projekt: C#Grundlagen" />
+  <a href="https://github.com/55Umut/Grundlagen-C">
+    <img src="https://img.shields.io/badge/🔭%20Aktuell-C%20Grundlagen-brightgreen?style=for-the-badge" alt="Aktuelles Projekt: C Grundlagen" />
   </a>
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 🚀 Über mich
 
-Ich befinde mich in einer **Umschulung zum Fachinformatiker Anwendungsentwicklung** und liebe es, durch praktische Projekte Neues zu lernen. Mein Fokus liegt aktuell auf dem **Verständnis von C#**, **Python** und **JavaScript** – mit dem Ziel, ein solides Fundament aufzubauen.
+Ich befinde mich in einer **Umschulung zum Fachinformatiker Anwendungsentwicklung** und liebe es, durch praktische Projekte Neues zu lernen. Mein Fokus liegt aktuell auf dem **Verständnis der Programmiersprache C**, **Python** und **JavaScript** – mit dem Ziel, ein solides Fundament aufzubauen.
 
-- 🔭 Arbeite derzeit an den Grundlagen von C#
+- 🔭 Arbeite derzeit an den Grundlagen von C
 - 🌱 Lerne aktiv JavaScript & Webentwicklung
 - 🤝 Offen für gemeinsames Lernen oder kleine Open-Source-Projekte
 - 🎯 Ziel 2025: Ein größeres Projekt eigenständig umsetzen
@@ -27,11 +27,11 @@ Ich befinde mich in einer **Umschulung zum Fachinformatiker Anwendungsentwicklun
 
 | Technologie        | Kenntnisstand                     | Lernstatus                     |
 |--------------------|-----------------------------------|--------------------------------|
-| **C#**             | ⭐☆☆☆☆ – Grundlagen                | 🚀 Hauptfokus in der Umschulung |
+| **C**              | ⭐☆☆☆☆ – Grundlagen                | 🚀 Hauptfokus in der Umschulung |
 | **Python**         | ⭐⭐☆☆☆ – Erste Projekte & Übung   | 📘 Wird weiter vertieft         |
 | **JavaScript**     | ⭐☆☆☆☆ – Einstieg                  | 📈 Aufbau für Webentwicklung    |
 | **HTML/CSS**       | ⭐⭐☆☆☆ – Basiskenntnisse           | 🛠 Unterstützend im Frontend    |
-| **Java / PHP / C** | ⭐☆☆☆☆ – Nur Grundverständnis      | 💤 Aktuell kein Schwerpunkt     |
+| **Java / PHP / C#**| ⭐☆☆☆☆ – Nur Grundverständnis      | 💤 Aktuell kein Schwerpunkt     |
 
 ---
 
@@ -60,13 +60,24 @@ Ich befinde mich in einer **Umschulung zum Fachinformatiker Anwendungsentwicklun
 
 ---
 
-## 📌 Projekte
+## 📌 Projekte & Inhalte im Repo
 
-| Projekt | Beschreibung |
-|--------|--------------|
-| [📁 Projekt-Audio](https://github.com/55Umut/Projekt-Audio) | Einfache Audioverarbeitung mit Python – ✅ vollständig |
-| [📁 CBM-Projekt](https://github.com/55Umut/CBM-Projekt) | Sammlung von C#-Übungen & Notizen – ⚠️ teilweise unvollständig |
-| [📁 PythonLernen](https://github.com/55Umut/PythonLernen) | Sammlung von Übungsaufgaben & Notizen – ⚠️ in Arbeit |
+Dieses Repository enthält meine **Lernprojekte zu den Grundlagen der Programmiersprache C** im Rahmen meiner Umschulung. Hier übe ich:
+
+- Arrays erstellen und verwalten  
+- Ausgabe und Umgang mit Zufallszahlen  
+- Berechnung von Minimum und Maximum  
+- Kleine praktische Programme (z.B. Zahlenraten, Würfeln, Notenberechnung)  
+- Verschiedene Übungsaufgaben zur Vertiefung der Grundlagen
+
+| Datei / Projekt | Beschreibung |
+|----------------|--------------|
+| 1x1.c          | Einfache Multiplikationstabellen |
+| arr01.c        | Arrays in C: Grundlagen und Übungen |
+| arr02MinMax.c  | Min- und Max-Berechnung in Arrays |
+| zufall.c       | Arbeiten mit Zufallszahlen |
+| zahlenraten.c  | Einfaches Zahlenraten-Spiel |
+| …              | … und viele weitere praktische Übungsdateien |
 
 ---
 
